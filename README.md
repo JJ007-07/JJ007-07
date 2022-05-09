@@ -27,3 +27,5 @@
   <a href="https://getbootstrap.com/"><img src="https://img.shields.io/badge/Bootstrap-White?color=blueviolet&logo=bootstrap&logoColor=white"></a>
   <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-White?color=black&logo=git&logoColor=orange"></a>
   <a href="https://github.com/"><img src="https://img.shields.io/badge/Github-White?color=black&logo=github&logoColor=white"></a>
+  
+![Views](https://komarev.com/ghpvc/?username=JJ007-07&label=PROFILE+VIEWS)
