@@ -8,20 +8,18 @@
 - 😄 Pronouns
 - ⚡ Fun fact
 
-<p align="left">
-<img src=https://github-readme-stats.vercel.app/api?username=JJ007-07&show_icons=true&theme=highcontrast&hide_border=true><!--border_color=67bf3b -->
-
-<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=JJ007-07&show_icons=true&theme=onedark>
-</p>
+<div>
+<img src=https://github-readme-stats.vercel.app/api?username=JJ007-07&show_icons=true&theme=highcontrast&hide_border=true>
+<img src=https://thumbs.gfycat.com/EqualWiltedEarthworm-size_restricted.gif width="512px" height="194px"> 
+</div>
 
 ## My skills
 <div align="center">
   <a href="https://www.arduino.cc/"><img src="https://img.shields.io/badge/Arduino-Blue?color=informational&logo=arduino&logoColor=white"></a>
   <a href="https://www.linux.org"><img src="https://img.shields.io/badge/Linux-Blue?color=yellow&logo=linux&logoColor=black"></a>
   <a href="https://www.postman.com/"><img src="https://img.shields.io/badge/Postman-White?color=orange&logo=postman&logoColor=black"></a>
-  <!-- style=plastic -->
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-White?color=blue&logo=python&logoColor=yellow"></a>
-  <a href="https://developer.mozilla.org/es/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS-White?color=blue&logo=css3&logoColor=white"></a><!--<br>-->
+  <a href="https://developer.mozilla.org/es/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS-White?color=blue&logo=css3&logoColor=white"></a>
   <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-White?color=critical&logo=mysql&logoColor=black"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/Javascript-White?color=black&logo=javascript&logoColor=yellow"></a>
   <a href="https://www.java.com/es/"><img src="https://img.shields.io/badge/Java-White?color=red&logo=java&logoColor=blue"></a>
