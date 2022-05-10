@@ -15,9 +15,7 @@
 
 ## My skills
 <div align="center">
-  <a href="https://www.arduino.cc/"><img src="https://img.shields.io/badge/Arduino-Blue?color=informational&logo=arduino&logoColor=white"></a>
   <a href="https://www.linux.org"><img src="https://img.shields.io/badge/Linux-Blue?color=yellow&logo=linux&logoColor=black"></a>
-  <a href="https://www.postman.com/"><img src="https://img.shields.io/badge/Postman-White?color=orange&logo=postman&logoColor=black"></a>
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-White?color=blue&logo=python&logoColor=yellow"></a>
   <a href="https://developer.mozilla.org/es/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS-White?color=blue&logo=css3&logoColor=white"></a>
   <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-White?color=critical&logo=mysql&logoColor=black"></a>
