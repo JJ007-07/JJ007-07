@@ -10,7 +10,7 @@
 
 <div>
 <img src=https://github-readme-stats.vercel.app/api?username=JJ007-07&show_icons=true&theme=highcontrast&hide_border=true>
-<img src=https://thumbs.gfycat.com/EqualWiltedEarthworm-size_restricted.gif width="50%">
+<img src=https://thumbs.gfycat.com/EqualWiltedEarthworm-size_restricted.gif width="495px">
 </div>
 
 ## My skills
