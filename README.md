@@ -10,6 +10,8 @@
 - 😄 Pronouns
 - ⚡ Fun fact
  
+ <img src="https://camo.githubusercontent.com/94050dc4f7649558499bb37c7c78046d5a90ef178ac3a01c3f8941fa972e094f/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6a686f6e63616d6172676f3037266c61796f75743d636f6d70616374267468656d653d68696768636f6e747261737426686964655f626f726465723d74727565" width="" alt="Most used languages" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=JJ007-07&amp;layout=compact&amp;theme=highcontrast&amp;hide_border=true" style="max-width: 100%;">
+ 
 <img src="https://camo.githubusercontent.com/92cf0084ac9049296859d92f9caa4dc44e591d2c101885fadf1b829677adc6b1/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d4a4a3030372d30372673686f775f69636f6e733d74727565267468656d653d68696768636f6e747261737426686964655f626f726465723d74727565" data-canonical-src="https://github-readme-stats.vercel.app/api?username=JJ007-07&amp;show_icons=true&amp;theme=highcontrast&amp;hide_border=true" style="max-width: 100%;"> <img src="https://camo.githubusercontent.com/2d1c8da3ca4706d40410951c504a3704faebe99d3481417fb5e78a9b95bfff09/68747470733a2f2f7468756d62732e6766796361742e636f6d2f457175616c57696c7465644561727468776f726d2d73697a655f726573747269637465642e676966" width="495px" data-canonical-src="https://thumbs.gfycat.com/EqualWiltedEarthworm-size_restricted.gif" style="max-width: 100%;">
 
 <h3 align="left">Languages and Tools:</h3>
